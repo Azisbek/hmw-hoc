@@ -1,0 +1,11 @@
+.ulContainer {
+  margin: 0 auto;
+  /* margin-top: 30px; */
+  width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  color: white;
+  list-style: none;
+  justify-content: space-between;
+}
